@@ -1,0 +1,19 @@
+<svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dragon body -->
+  <path d="M15 20 Q20 15 25 20 T15 20" fill="#E0FFFF"/>
+  
+  <!-- Dragon head -->
+  <path d="M25 20 Q28 18 27 15 L25 14 L27 13 L25 12" fill="#E0FFFF"/>
+  
+  <!-- Ice spikes on back -->
+  <path d="M15 20 L17 15 L19 20 L21 15 L23 20" fill="none" stroke="#A0FFFF" stroke-width="1"/>
+  
+  <!-- Eyes -->
+  <circle cx="26" cy="14" r="1" fill="#0000FF"/>
+  
+  <!-- Frost breath effect -->
+  <path d="M27 15 Q32 15 30 13 M27 15 Q32 15 30 17" 
+        fill="none" stroke="#A0FFFF" stroke-width="1">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+</svg>

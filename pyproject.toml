@@ -1,0 +1,9 @@
+[project]
+name = "repl-nix-kidstowerdefense"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "cairosvg>=2.7.1",
+    "pygame>=2.6.1",
+]

@@ -1,0 +1,17 @@
+<svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
+  <!-- Chest base -->
+  <rect x="5" y="10" width="20" height="15" fill="#8B4513"/>
+  
+  <!-- Chest top -->
+  <path d="M5 10 L15 5 L25 10 L5 10" fill="#A0522D"/>
+  
+  <!-- Gold trim -->
+  <rect x="7" y="15" width="16" height="2" fill="#FFD700"/>
+  
+  <!-- Lock -->
+  <rect x="13" y="14" width="4" height="4" fill="#FFD700"/>
+  
+  <!-- Sparkle effects -->
+  <circle cx="8" cy="12" r="1" fill="#FFFFFF"/>
+  <circle cx="22" cy="12" r="1" fill="#FFFFFF"/>
+</svg>

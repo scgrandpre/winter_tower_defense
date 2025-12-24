@@ -1,0 +1,11 @@
+<svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ice crystal base -->
+  <polygon points="20,5 25,15 20,35 15,15" fill="#a0e0ff"/>
+  <!-- Crystal facets -->
+  <path d="M20,5 L30,20 L20,35" fill="none" stroke="#80c0ff" stroke-width="2"/>
+  <path d="M20,5 L10,20 L20,35" fill="none" stroke="#80c0ff" stroke-width="2"/>
+  <!-- Sparkles -->
+  <circle cx="18" cy="12" r="1" fill="white"/>
+  <circle cx="22" cy="18" r="1" fill="white"/>
+  <circle cx="17" cy="25" r="1" fill="white"/>
+</svg>

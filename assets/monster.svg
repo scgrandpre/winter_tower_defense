@@ -1,0 +1,24 @@
+<svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gingerbread body -->
+  <circle cx="15" cy="15" r="12" fill="#D4A76A"/>
+
+  <!-- Ninja headband -->
+  <path d="M5 12 H25" stroke="#FF0000" stroke-width="2"/>
+  <path d="M22 12 L25 10" stroke="#FF0000" stroke-width="2"/>
+
+  <!-- Face -->
+  <circle cx="11" cy="14" r="1.5" fill="#422006"/>
+  <circle cx="19" cy="14" r="1.5" fill="#422006"/>
+  <path d="M13 17 Q15 18 17 17" stroke="#422006" fill="none" stroke-width="1"/>
+
+  <!-- Ninja belt -->
+  <path d="M8 16 H22" stroke="#000000" stroke-width="2"/>
+
+  <!-- Buttons -->
+  <circle cx="15" cy="20" r="1" fill="#422006"/>
+  <circle cx="15" cy="23" r="1" fill="#422006"/>
+
+  <!-- Karate pose arms -->
+  <path d="M3 15 L8 18" stroke="#D4A76A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M27 15 L22 18" stroke="#D4A76A" stroke-width="3" stroke-linecap="round"/>
+</svg>
